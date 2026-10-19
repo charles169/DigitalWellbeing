@@ -1,0 +1,5 @@
+.env
+__pycache__/
+*.pyc
+*.pyo
+wellbeing_data.csv
